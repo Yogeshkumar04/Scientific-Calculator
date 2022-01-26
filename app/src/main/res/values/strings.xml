@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Scientific Calculator App</string>
+    <string name="ac">AC</string>
+    <string name="c">C</string>
+    <string name="left_bracket">(</string>
+    <string name="right_bracket">)</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="log">log</string>
+    <string name="ln">ln</string>
+    <string name="factor_symbol">X!</string>
+    <string name="sqare_symbol">x²</string>
+    <string name="square_root_symbol">√</string>
+    <string name="inverse_symbol">1/X</string>
+    <string name="divide_symbol">÷</string>
+    <string name="number_7">7</string>
+    <string name="number__8">8</string>
+    <string name="number__9">9</string>
+    <string name="multiplication_symbol">×</string>
+    <string name="number__6">6</string>
+    <string name="number__5">5</string>
+    <string name="number__4">4</string>
+    <string name="minus_symbol">₋</string>
+    <string name="number__3">3</string>
+    <string name="number__2">2</string>
+    <string name="number__1">1</string>
+    <string name="addition_symbol">+</string>
+    <string name="pie_symbol">π</string>
+    <string name="number__0">0</string>
+    <string name="decimal_symbol">.</string>
+    <string name="equal_to_symbol">=</string>
+</resources>
